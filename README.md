@@ -18,7 +18,7 @@ You can test it on a server running PHP and SQL, create a database called "todo"
 Or you can also follow the instructions below:
  1. Download and install [XAMPP](https://www.apachefriends.org/)
  2. Open XAMPP and Run Apache & MySQL
- 3. Create a your folder in C:\xampp\htdocs
+ 3. Create a folder in C:\xampp\htdocs
  4. Clone this repository in your folder
  5. Run composer
 	 1. Download [composer.phar](https://getcomposer.org/composer.phar) in your folder
